@@ -1,0 +1,27 @@
+
+
+
+.container{
+    max-width: 144rem;
+    padding: 4.2rem 2.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    gap: 3.2rem;
+}
+
+h2{
+    font-size: medium;
+}
+
+h2{
+    & a{
+        color: black;
+        font-weight: 800;
+    }
+}
+
+
